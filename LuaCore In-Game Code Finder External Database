@@ -1,0 +1,23 @@
+--[[ LuaCore™
+Code Finder, Developed For The LuaCore Agents
+We Had Internal Database In-Script So You Don't Have To Wait Like Dex Honey
+We Are Developing Our AI System To Make It Faster
+Developed By Nyx
+https://discord.gg/DE6YaGSCmK
+]]--
+
+---
+
+--[[
+Enternal database - reduce loading time, pays with pain.
+I search through basic internet to put some part of good codes, this does not contain ai search from us
+others weird results might be appear due to AI research.
+
+THIS IS ADDED VERSION OF INTERNAL V2
+]]--
+local promoCodes = {
+    [4390380541] = {"RELEASE", "COINS", "GEMS", "TOMB", "FREEGEMS", "SECRET"},
+    [131716211654599] = {"CARBON", "SORRYGUYS", "ATLANTEANSTORM", "GOLDENTIDE", "DAILYSHOP", "THEKRAKEN", "SorryReward"},
+    [8737899170] = {"pet-d67518012", "pet-45a33a2dca", "pet-259e210a1b", "S7MJHEKAABC8", "HDVR2X95RS6L", "VWJ33JE6SLED", "TitanicFireDragon", "CatHoverboard", "DamagePotionV", "LuckyPotionV", "BagOfDiamonds", "ExclusiveDragonEgg", "HugeCalestialDragon", "HugeUnicornDragon", "BallonHoverboard", "pet-4060e7deb6", "DPETUJ44AB89", "PFB96CG9472D"}, -- Nyx internal database aug 29 2025
+    [2753915549] = {"fudd10", "fudd10_V2", "Chandler", "BIGNEWS", "KITT_RESET", "Sub2UncleKizaru", "SUB2GAMERROBOT_RESET1", "Sub2Fer999", "Enyu_is_Pro", "JCWK", "StarcodeHEO", "MagicBUS", "KittGaming", "Sub2CaptainMaui", "Sub2OfficialNoobie", "TheGreatAce", "Sub2NoobMaster123", "Sub2Daigrock", "Axiore", "StrawHatMaine", "TantaiGaming", "Bluxxy", "SUB2GAMERROBOT_EXP1"},
+}
